@@ -7,7 +7,7 @@ example:test_fuel:
   # The time (in seconds) that the fuel will last
   burn_time: 40
   # Replace the fuel with another item (like Lava Bucket)
-  # The said item MUST NOT BE STACKABLE or it will wipe all of your stack and left only 1 replaced item
-  # Set this to NONE in order disable this
-  # This will also get disabled if the item provided is not a valid ItemsAdder item
+  # The said item MUST NOT BE STACKABLE, or it will wipe all of your stack and left only 1 replaced item
+  # Set this to NONE in order disable this.
+  # This will also get disabled if the item provided is not a valid ItemsAdder item.
   replacement_item: example:test_fuel_used
