@@ -1,0 +1,7 @@
+name: IAMechanicAddon
+version: '1.0'
+main: dev.clicknin.iamechanic.Main
+api-version: 1.19
+authors: [ ClickNin ]
+depend:
+  - ItemsAdder
